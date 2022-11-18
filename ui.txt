@@ -1,0 +1,23 @@
+   											TEAM BOYZ
+										    Project ARTO
+										SRS Document (Raj kumar)
+		Topic : User Interface
+
+1.UI:
+       The user interface (UI) is the point of human-computer interaction and communication in a device.
+
+       This can include display screens, keyboards, a mouse and the appearance of a desktop.
+
+       It is also the way through which a user interacts with an application or a website.
+
+
+2.Work of UI:
+         
+
+       User interface(UI) developers work closely with User experience (UX) designers and other design specialists.
+
+       Their job is to make sure that every page and every step a user will experience in their interaction with the finished product
+
+       will conform to the overall vision created by UX designers.
+
+       User interface designs for online specialists.
